@@ -1,5 +1,5 @@
 :root {
-    --mycol: #ff003c;
+    --mycol: #0A6847;
     --gcol: linear-gradient(to right, red, blue);
 }
 
@@ -12,7 +12,7 @@ span {
     padding: 0;
     box-sizing: border-box;
     color: white;
-    font-family: 'Azonix', sans-serif;
+    font-family: 'Maximum Voltage', modern;
     scroll-behavior: smooth;
 }
 
